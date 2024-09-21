@@ -1,4 +1,4 @@
-import xeqLogo from './assets/arqLogo.png'
+import arqLogo from './assets/arqLogo.png'
 import twitterLogo from './assets/x.png'
 import discordLogo from './assets/discordBlack.png'
 import telegramLogo from './assets/telegramBlack.png'
@@ -9,7 +9,7 @@ const Footer = () => {
 
                 <div className="col mb-3 socialFooter" style={{textAlign:'left',marginLeft:"80px"}} >
 
-                    <img src={xeqLogo} style={{width:"50px"}}/>
+                    <img src={arqLogo} style={{width:"50px"}}/>
                     <h3 className='fw mt-1'>Follow Us</h3>
 
                     <div className="d-flex fs-2 gap-3" style={{marginTop:"-10px"}}>
