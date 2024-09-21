@@ -1,5 +1,5 @@
 
-import logo from "./assets/l3.png"
+import logo from "./assets/arqlogo.png"
 
 function CardTeam (props){
 

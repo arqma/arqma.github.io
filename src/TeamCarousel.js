@@ -52,7 +52,7 @@ const TeamCarousel = () => {
                     <div className="col-md-2"></div>
                     <div className="col-md-4 col-sm-6 mb-4">
                       <CardTeam
-                        logo="l3.png"
+                        logo="arqlogo.png"
                         name="Michal vel M@lbit"
                         desc="Core developer"
                         description="Core developer dedicated to shaping project foundations through coding expertise."
@@ -60,7 +60,7 @@ const TeamCarousel = () => {
                     </div>
                     <div className="col-md-4 col-sm-6 mb-4">
                       <CardTeam
-                        logo="l3.png"
+                        logo="arqlogo.png"
                         name="ArqTras"
                         desc="Dev support"
                         description="Skilled team member serving as a developer, tester, and support specialist. Embracing anonymity, I contribute to seamless collaboration across project phases."
@@ -77,7 +77,7 @@ const TeamCarousel = () => {
                     <div className="col-md-2"></div>
                     <div className="col-md-4 col-sm-6 mb-4">
                       <CardTeam
-                        logo="l3.png"
+                        logo="arqlogo.png"
                         name="Dev"
                         desc="Contractors"
                         description="Anonymous contractors skilled in C++, Node, React, Go, Solidity and Python, providing versatile expertise for projects"
@@ -85,7 +85,7 @@ const TeamCarousel = () => {
                     </div>
                     <div className="col-md-4 col-sm-6 mb-4">
                       <CardTeam
-                        logo="l3.png"
+                        logo="arqlogo.png"
                         name="Web Developers"
                         desc="Contractors"
                         description="Anonymous contractors skilled in Node, React, CSS, VUE and other programming languages."
@@ -101,7 +101,7 @@ const TeamCarousel = () => {
                   <div className="row">
                     <div className="col-md-4 col-sm-6 mb-4">
                       <CardTeam
-                        logo="l3.png"
+                        logo="arqlogo.png"
                         name="Michal vel M@lbit"
                         desc="Core developer"
                         description="Core developer dedicated to shaping project foundations through coding expertise."
@@ -116,7 +116,7 @@ const TeamCarousel = () => {
                   <div className="row">
                     <div className="col-md-4 col-sm-6 mb-4">
                       <CardTeam
-                        logo="l3.png"
+                        logo="arqlogo.png"
                         name="ArqTras"
                         desc="Dev support"
                         description="Skilled team member serving as a developer, tester, and support specialist. Embracing anonymity, I contribute to seamless collaboration across project phases."
@@ -131,7 +131,7 @@ const TeamCarousel = () => {
                   <div className="row">
                     <div className="col-md-4 col-sm-6 mb-4">
                       <CardTeam
-                        logo="l3.png"
+                        logo="arqlogo.png"
                         name="Dev"
                         desc="Contractors"
                         description="Anonymous contractors skilled in C++, Node, React, Go, Solidity and Python, providing versatile expertise for projects"
