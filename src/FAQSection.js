@@ -47,7 +47,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse2" className="accordion-collapse collapse" aria-labelledby="faqHeading2" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout">
-                      Arqma mining is done using the RandomARQ algorithm. For detailed instructions, visit our mining <a href="https://github.com/arqma/arqma/wiki/How-to-Mine-Arqma">wiki page</a>.
+                      Arqma mining is done using the RandomARQ algorithm. For detailed instructions, visit our mining <a href="https://github.com/arqma/arqma/wiki#52-mining">wiki page</a>.
                     </div>
                   </div>
                 </div>
@@ -74,7 +74,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse4" className="accordion-collapse collapse" aria-labelledby="faqHeading4" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout ">
-                      Stay informed by checking out our <a href="https://medium.com/@ArQmANetwork">Medium</a> and our <a href="https://t.me/ArQmANetwork/109589">Trello board</a> for the latest updates.
+                      Stay informed by checking out our <a href="https://medium.com/@ArQmANetwork">Medium</a> and our <a href="https://trello.com/b/QoMWmhFp/arqma">Trello board</a> for the latest updates.
                     </div>
                   </div>
                 </div>
@@ -87,7 +87,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse6" className="accordion-collapse collapse" aria-labelledby="faqHeading4" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout ">
-                      To set up and run a node, refer to our comprehensive documentation <a href="https://github.com/arqma/arqma/wiki">here</a>. It provides step-by-step instructions for a seamless setup process.
+                      To set up and run a node, refer to our comprehensive documentation <a href="https://github.com/arqma/arqma/wiki/Service-Nodes">here</a>. It provides step-by-step instructions for a seamless setup process.
                     </div>
                   </div>
                 </div>
