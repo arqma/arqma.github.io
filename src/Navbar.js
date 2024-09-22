@@ -12,7 +12,7 @@ const Navbar = () => {
                             <li className="nav-item"><a className="nav-link" href="#exchanges">Exchanges</a></li>
                             <li className="nav-item"><a className="nav-link" href="https://explorer.arqma.com/">Explorer</a></li>
                             <li className="nav-item"><a className="nav-link" href="https://github.com/arqma/arqma-electron-wallet/releases">Wallets</a></li>
-                            <li className="nav-item"><a className="nav-link" href="https://https://github.com/arqma/arqma/wiki">Documentation</a></li>
+                            <li className="nav-item"><a className="nav-link" href="https://github.com/arqma/arqma/wiki">Documentation</a></li>
                             <li className="nav-item"><a className="nav-link" href="#FAQsection">FAQ</a></li>
                             <li className="nav-item"><a className="nav-link" href="mailto:support@arqma.com">Email</a></li>
                         </ul>
