@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bc9ace88.css",
-    "main.js": "/static/js/main.1a56ac68.js",
+    "main.js": "/static/js/main.cf6d149c.js",
     "static/media/coin2.png": "/static/media/coin2.89f1ab3591da1f8260f8.png",
     "static/media/arqLogo.png": "/static/media/arqLogo.66eb61083034034733a3.png",
     "static/media/x.png": "/static/media/x.1cbbff440b14459eeb67.png",
@@ -14,10 +14,10 @@
     "static/media/s02.svg": "/static/media/s02.23d8845c5c241b0944a9d752a903d184.svg",
     "static/media/sectionShape.svg": "/static/media/sectionShape.e40271aaf772cbdea86e6b4b85d493ac.svg",
     "main.bc9ace88.css.map": "/static/css/main.bc9ace88.css.map",
-    "main.1a56ac68.js.map": "/static/js/main.1a56ac68.js.map"
+    "main.cf6d149c.js.map": "/static/js/main.cf6d149c.js.map"
   },
   "entrypoints": [
     "static/css/main.bc9ace88.css",
-    "static/js/main.1a56ac68.js"
+    "static/js/main.cf6d149c.js"
   ]
 }
