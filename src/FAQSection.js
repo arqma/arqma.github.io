@@ -33,7 +33,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse1" className="accordion-collapse collapse" aria-labelledby="faqHeading1" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout">
-                      We recommend using either the Graphical User Interface (GUI) or Command Line Interface (CLI) wallets. You can download them <a href="https://github.com/arqma/arqma-electron-wallet/releases">here</a>.
+                      We recommend using either the Graphical User Interface (GUI) or Command Line Interface (CLI) wallets. You can download them <a href="https://github.com/arqma/arqma-electron-wallet/releases" target="_blank">here</a>.
                     </div>
                   </div>
                 </div>
@@ -47,7 +47,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse2" className="accordion-collapse collapse" aria-labelledby="faqHeading2" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout">
-                      Arqma mining is done using the RandomARQ algorithm. For detailed instructions, visit our mining <a href="https://github.com/arqma/arqma/wiki#52-mining">wiki page</a>.
+                      Arqma mining is done using the RandomARQ algorithm. For detailed instructions, visit our mining <a href="https://github.com/arqma/arqma/wiki#52-mining" target="_blank">wiki page</a>.
                     </div>
                   </div>
                 </div>
@@ -60,7 +60,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse3" className="accordion-collapse collapse" aria-labelledby="faqHeading3" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout">
-                    The current supply data can be obtained from our explorer. For the most accurate and up-to-date information, please refer to <a href="https://explorer.arqma.com/">explorer</a>.
+                    The current supply data can be obtained from our explorer. For the most accurate and up-to-date information, please refer to <a href="https://explorer.arqma.com/" target="_blank">explorer</a>.
                     </div>
                   </div>
                 </div>
@@ -74,7 +74,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse4" className="accordion-collapse collapse" aria-labelledby="faqHeading4" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout ">
-                      Stay informed by checking out our <a href="https://medium.com/@ArQmANetwork">Medium</a> and our <a href="https://trello.com/b/QoMWmhFp/arqma">Trello board</a> for the latest updates.
+                      Stay informed by checking out our <a href="https://medium.com/@ArQmANetwork">Medium</a> and our <a href="https://trello.com/b/QoMWmhFp/arqma" target="_blank">Trello board</a> for the latest updates.
                     </div>
                   </div>
                 </div>
@@ -87,7 +87,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse6" className="accordion-collapse collapse" aria-labelledby="faqHeading4" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout ">
-                      To set up and run a node, refer to our comprehensive documentation <a href="https://github.com/arqma/arqma/wiki/Service-Nodes">here</a>. It provides step-by-step instructions for a seamless setup process.
+                      To set up and run a node, refer to our comprehensive documentation <a href="https://github.com/arqma/arqma/wiki/Service-Nodes" target="_blank">here</a>. It provides step-by-step instructions for a seamless setup process.
                     </div>
                   </div>
                 </div>

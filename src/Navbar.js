@@ -10,9 +10,9 @@ const Navbar = () => {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ms-auto mb-2 mb-lg-0 medium fw-bolder">
                             <li className="nav-item"><a className="nav-link" href="#exchanges">Exchanges</a></li>
-                            <li className="nav-item"><a className="nav-link" href="https://explorer.arqma.com/">Explorer</a></li>
-                            <li className="nav-item"><a className="nav-link" href="https://github.com/arqma/arqma-electron-wallet/releases">Wallets</a></li>
-                            <li className="nav-item"><a className="nav-link" href="https://github.com/arqma/arqma/wiki">Documentation</a></li>
+                            <li className="nav-item"><a className="nav-link" href="https://explorer.arqma.com/" target="_blank">Explorer</a></li>
+                            <li className="nav-item"><a className="nav-link" href="https://github.com/arqma/arqma-electron-wallet/releases" target="_blank">Wallets</a></li>
+                            <li className="nav-item"><a className="nav-link" href="https://github.com/arqma/arqma/wiki" target="_blank">Documentation</a></li>
                             <li className="nav-item"><a className="nav-link" href="#FAQsection">FAQ</a></li>
                             <li className="nav-item"><a className="nav-link" href="mailto:support@arqma.com">Email</a></li>
                         </ul>
