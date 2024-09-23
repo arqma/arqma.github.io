@@ -90,7 +90,7 @@ const Home = () => {
                 <div className="cards mx-auto" >
                 <div className="row">
                     <div className="col-md-4 col-sm-6 mb-4">
-                        <Card title="Private" text="ArQmA is based on the Monero codebase and is actively enhanced with new features, developed by the team itself or integrated from the rich and flourishing Cryptonote ecosystem. The ArQmA Network uses the RandomARQ PoW Hashing Algorithm, an ASIC and Nicehash resistant mining Algorithm, to give everyone a fair chance to mine it. The blockchain is fast to synchronize while transfers are anonymous and untraceable using Bulletproof RingCT functionality."/>
+                        <Card title="Private" text="ArQmA is based on the Monero codebase and is actively enhanced with new features, developed by the team itself or integrated from the rich and flourishing Cryptonote ecosystem. The ArQmA Network uses the RandomARQ PoW Hashing Algorithm, an ASIC and Nicehash resistant mining Algorithm, to give everyone a fair chance to mine it."/>
                     </div>
                     <div className="col-md-4 col-sm-6 mb-4 ">
                         <Card title="Decentralized" text="Arqma employs a sophisticated hybrid Proof of Work (PoW) and Proof of
