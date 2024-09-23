@@ -97,9 +97,9 @@ const TeamCarousel = () => {
               )}
 
               {isMobileView && (
-                <div className={`carousel-item ${activeIndex === 2 ? "active" : ""}`}>
+                <div className={`carousel-item ${activeIndex === 0 ? "active" : ""}`}>
                   <div className="row">
-                    <div className="col-md-4 col-sm-6 mb-4">
+                    <div className="col-md-2 col-sm-6 mb-4">
                       <CardTeam
                         logo="arqLogo.png"
                         name="Michal vel M@lbit"
@@ -112,7 +112,7 @@ const TeamCarousel = () => {
               )}
 
               {isMobileView && (
-                <div className={`carousel-item ${activeIndex === 2 ? "active" : ""}`}>
+                <div className={`carousel-item ${activeIndex === 1 ? "active" : ""}`}>
                   <div className="row">
                     <div className="col-md-4 col-sm-6 mb-4">
                       <CardTeam
@@ -121,6 +121,21 @@ const TeamCarousel = () => {
                         desc="Dev support"
                         description="Skilled team member serving as a developer, tester, and support specialist. Embracing anonymity, I contribute to seamless collaboration across project phases."
                       />
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {isMobileView && (
+                <div className={`carousel-item ${activeIndex === 2 ? "active" : ""}`}>
+                  <div className="row">
+                    <div className="col-md-4 col-sm-6 mb-4">
+                      <CardTeam
+                        logo="arqLogo.png"
+                        name="Web Developers"
+                        desc="Contractors"
+                        description="Anonymous contractors skilled in Node, React, CSS, VUE and other programming languages."
+                        />
                     </div>
                   </div>
                 </div>
@@ -140,7 +155,6 @@ const TeamCarousel = () => {
                   </div>
                 </div>
               )}
-
               {/* Add more carousel items as needed */}
             </div>
 
