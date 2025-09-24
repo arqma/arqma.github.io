@@ -1,7 +1,7 @@
 import React,{useEffect, useRef} from "react"
 import FAQSection from "./FAQSection"
 import nonkyc from "./assets/nonkyclogoicon.png"
-import tradeOgre from "./assets/tradeOgre.png"
+import cex from "./assets/cex.jpg"
 import coin from "./assets/coin2.png"
 import sectionShape from "./assets/sectionShape.svg"
 import sectionShape2 from "./assets/s02.svg"
@@ -190,10 +190,10 @@ const Home = () => {
                     <div className="row">
                     <div className="col-md">
                         <div className="card mt-4" style={{border:"none"}}>
-                        <img src={tradeOgre} style={{width:'85%'}} className="mx-auto logoExchange"></img>
+                        <img src={cex} style={{width:'85%'}} className="mx-auto logoExchange"></img>
                         <div className="card-body">
-                            <h2 className="fw-light mb-4">Trade Ogre</h2>
-                            <a className="btn btn-primary btn-lg px-5 py-2  fw-bolder inc bottoneCard" href="https://tradeogre.com/exchange/ARQ-BTC"  style={{marginTop:"10px"}}><p className="cText">Buy now</p></a>
+                            <h2 className="fw-light mb-4">CexSwap.cc</h2>
+                            <a className="btn btn-primary btn-lg px-5 py-2  fw-bolder inc bottoneCard" href="https://cexswap.cc/trade/ARQ-BTC"  style={{marginTop:"10px"}}><p className="cText">Buy now</p></a>
                         </div>
                         </div>
                     </div>
