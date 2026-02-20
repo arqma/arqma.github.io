@@ -32,8 +32,8 @@ const Footer = () => {
                     <ul className="nav flex-column">
                         <li className="nav-item mb-2"><a href="https://telegram.arqma.com/" className="nav-link p-0 text-muted">Telegram Channel</a></li>
                         <li className="nav-item mb-2"><a href="https://chat.arqma.com/" className="nav-link p-0 text-muted">Discord Channel</a></li>
-                        <li className="nav-item mb-2"><a href="https://coinmarketcap.com/currencies/arqma/" className="nav-link p-0 text-muted">Coinmarketcap</a></li>
-                        <li className="nav-item mb-2"><a href="https://www.coingecko.com/en/coins/arqma" className="nav-link p-0 text-muted">Coingecko</a></li>
+                      //  <li className="nav-item mb-2"><a href="https://coinmarketcap.com/currencies/arqma/" className="nav-link p-0 text-muted">Coinmarketcap</a></li>
+                      //  <li className="nav-item mb-2"><a href="https://www.coingecko.com/en/coins/arqma" className="nav-link p-0 text-muted">Coingecko</a></li>
                         <li className="nav-item mb-2"><a href="https://explorer.arqma.com/" className="nav-link p-0 text-muted">Explorer</a></li>
                     </ul>
                 </div>
@@ -41,7 +41,7 @@ const Footer = () => {
                 <div className="col mb-3"  style={{textAlign:'left',marginLeft:"20px"}} >
                     <h5>Tools</h5>
                     <ul className="nav flex-column">
-                        <li className="nav-item mb-2"><a href="https://github.com/arqma/arqma-electron-wallet/releases/latest" className="nav-link p-0 text-muted">Desktop Wallet</a></li>
+                        <li className="nav-item mb-2"><a href="https://github.com/arqma/arqma/releases/latest" className="nav-link p-0 text-muted">Desktop Wallet</a></li>
                         <li className="nav-item mb-2"><a href="https://github.com/arqma/arqma-logo" className="nav-link p-0 text-muted">Media Kit</a></li>
                     </ul>
                 </div>

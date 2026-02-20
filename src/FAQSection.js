@@ -33,7 +33,7 @@ const FAQSection = () => {
                   </h2>
                   <div id="faqCollapse1" className="accordion-collapse collapse" aria-labelledby="faqHeading1" data-bs-parent="#faqAccordion">
                     <div className="accordion-body sx-layout">
-                      We recommend using either the Graphical User Interface (GUI) or Command Line Interface (CLI) wallets. You can download them <a href="https://github.com/arqma/arqma-electron-wallet/releases" target="_blank">here</a>.
+                      We recommend using either the Graphical User Interface (GUI) or Command Line Interface (CLI) wallets. You can download them <a href="https://github.com/arqma/arqma/releases" target="_blank">here</a>.
                     </div>
                   </div>
                 </div>
