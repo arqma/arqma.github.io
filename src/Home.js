@@ -1,5 +1,6 @@
 import React,{useEffect, useRef} from "react"
 import FAQSection from "./FAQSection"
+import MobileWalletSection from "./MobileWalletSection"
 import nonkyc from "./assets/nonkyclogoicon.png"
 import cex from "./assets/cex.jpg"
 import coin from "./assets/coin2.png"
@@ -214,6 +215,8 @@ const Home = () => {
             </div>
         </div>
         </section>
+
+        <MobileWalletSection />
 
         <section id="FAQsection">
             <FAQSection></FAQSection>
