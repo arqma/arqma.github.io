@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.bc9ace88.css",
-    "main.js": "/static/js/main.19a274ed.js",
+    "main.js": "/static/js/main.cff9a28b.js",
+    "static/media/mobile-logo-android.png": "/static/media/mobile-logo-android.447f45b40e6b697b9eec.png",
     "static/media/coin2.png": "/static/media/coin2.946e0a0167188f36308a.png",
     "static/media/4o.png": "/static/media/4o.ef72e27d4027243edf41.png",
+    "static/media/mobile-logo.png": "/static/media/mobile-logo.89f1ab3591da1f8260f8.png",
     "static/media/arqLogo.png": "/static/media/arqLogo.66eb61083034034733a3.png",
     "static/media/x.png": "/static/media/x.1cbbff440b14459eeb67.png",
     "static/media/discord.png": "/static/media/discord.dda0e893ff70b95b5ec8.png",
@@ -13,11 +15,13 @@
     "index.html": "/index.html",
     "static/media/s02.svg": "/static/media/s02.23d8845c5c241b0944a9d752a903d184.svg",
     "static/media/sectionShape.svg": "/static/media/sectionShape.e40271aaf772cbdea86e6b4b85d493ac.svg",
+    "static/media/apple.svg": "/static/media/apple.9eb4aa958ef7683f5f81f28f40471bb1.svg",
+    "static/media/android.svg": "/static/media/android.76aaf7cdee047ffe95ba62e1e4372d38.svg",
     "main.bc9ace88.css.map": "/static/css/main.bc9ace88.css.map",
-    "main.19a274ed.js.map": "/static/js/main.19a274ed.js.map"
+    "main.cff9a28b.js.map": "/static/js/main.cff9a28b.js.map"
   },
   "entrypoints": [
     "static/css/main.bc9ace88.css",
-    "static/js/main.19a274ed.js"
+    "static/js/main.cff9a28b.js"
   ]
 }
