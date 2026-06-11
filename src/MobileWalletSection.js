@@ -52,7 +52,7 @@ const MobileWalletSection = () => {
                                             <img src={androidIcon} alt="Android" style={{ width: "40px", height: "40px" }} className="mb-3" />
                                             <h3 className="fw-light mb-4">Android Wallet</h3>
                                             <a
-                                                href="https://github.com/arqma/Flutter-Wallet/releases/download/5.1.1/Arqma-Wallet-Android-5.1.1.apk"
+                                                href="https://github.com/arqma/Flutter-Wallet/releases/download/5.1.2/Arqma-Wallet-Android-5.1.2.apk"
                                                 target="_blank"
                                                 rel="noreferrer"
                                             >
@@ -65,7 +65,7 @@ const MobileWalletSection = () => {
                                             </a>
                                             <a
                                                 className="btn btn-primary btn-lg px-5 py-2 fw-bolder inc bottoneCard"
-                                                href="https://github.com/arqma/Flutter-Wallet/releases/download/5.1.1/Arqma-Wallet-Android-5.1.1.apk"
+                                                href="https://github.com/arqma/Flutter-Wallet/releases/download/5.1.2/Arqma-Wallet-Android-5.1.2.apk"
                                                 target="_blank"
                                                 rel="noreferrer"
                                             >
